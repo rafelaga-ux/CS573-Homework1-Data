@@ -40,6 +40,14 @@ Singular Value Decomposition (SVD) will be used to analyze the numerical propert
 
 Model performance will be evaluated using prediction error metrics such as RMSE.
 
-## Purpose
+## Educational Use and Data Attribution
 
-The datasets are prepared for educational and academic analysis as part of CS573 Homework 1.
+This repository was created exclusively for CS573 Optimization Methods coursework and non-commercial academic research.
+
+The NBA and EuroLeague datasets have been independently cleaned, aggregated, and transformed for statistical analysis and performance prediction.
+
+Original NBA statistics are sourced from Basketball Reference through the NBA Stats ETL Dashboard project. Original EuroLeague statistics are retrieved from EuroLeague's statistics APIs.
+
+All original data rights remain with their respective providers. No ownership of the underlying statistics is claimed.
+
+This notice does not grant additional rights to redistribute the original data.
